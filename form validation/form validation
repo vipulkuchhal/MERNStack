@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+	</head>
+<body>
+	<div>
+<form align:center>
+
+	Personal Information <br><br>
+First Name: <input type="text" placeholder="FirstName"><br><br>
+Last Name: <input type="text" placeholder="LastName"><br><br>
+Date of Birth: <input type="date"><br><br>
+Gender: <input type="radio">Female <input type="radio">Male<br><br>
+Email id: <input type"text"><br><br>
+Phone No. <input type="Number"><br><br>
+Address:<input type="text" placeholder="address"><br><br>
+<input type="Submit" Submit>
+</form>
+</div>
+</body>
+</html
